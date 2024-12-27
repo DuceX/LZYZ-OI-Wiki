@@ -24,8 +24,8 @@ comments: true
 
 * [as 2020 CSP-S](https://www.bilibili.com/read/cv8429265?spm_id_from=333.999.0.0)
 
-------------
-
-<span id="busuanzi_container_page_pv">本页面总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+啊啊啊懒得优化了过几年再说吧
 
 ------------
+
+本页总阅读量 <span id="vercount_value_page_pv">Loading</span> 次

@@ -29,3 +29,5 @@ comments: true
 [我们要比赛什么？](https://oi-wiki.org/contest/oi/)
 
 ------------
+
+本页总阅读量 <span id="vercount_value_page_pv">Loading</span> 次

@@ -4,15 +4,13 @@ comments: true
 
 ## Dev
 
-页面搭建：Morax
+页面搭建：Duce.X
 
-服务器搭建：Morax
+更新维护：Duce.X
 
-更新维护：Morax、DIO__、Leaf
+策划：Duce.X
 
-策划：Morax
-
-*"见证者，为见证而来；铭记者，因铭记而生。"   ——Morax*
+*"见证者，为见证而来；铭记者，因铭记而生。"   ——Duce.X*
 
 ## 特别致谢
 
@@ -20,7 +18,9 @@ comments: true
 
 ## 更新日志
 
-* 2024.2.5 Morax给GitHub改名，导致网站更新系统和评论系统寄了，紧急重构了网站
+* 2024.12.27 Duce.X终于想起了这个项目，并做了部分优化
+
+* 2024.2.5 Duce.X给GitHub改名，导致网站更新系统和评论系统寄了，紧急重构了网站
 
 * 2024.2.1 新增访问量
 
@@ -36,11 +36,8 @@ comments: true
 
 ------------
 
-<span id="busuanzi_container_page_pv">本页面总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+本页总阅读量 <span id="vercount_value_page_pv">Loading</span> 次
 
-------------
+本站总访问量 <span id="vercount_value_site_pv">Loading</span> 次
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
-
-------------
+本站总访客数 <span id="vercount_value_site_uv">Loading</span> 人
